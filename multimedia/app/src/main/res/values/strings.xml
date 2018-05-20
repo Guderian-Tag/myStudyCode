@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">multimedia</string>
+
+    <string name="select_video">Select one video</string>
+    <string name="divide_audio">Divide audio</string>
+    <string name="divide_video">Divide video</string>
+    <string name="cut_video">Cut video</string>
+    <string name="select_audio">Select one audio</string>
+
+    <string name="title_activity_entrance">EntranceActivity</string>
+
+    <string name="record_and_play">Record video and play</string>
+    <string name="opengl">OpenGL</string>
+    <string name="media_manager">Media Manager</string>
+    <string name="media_mixture">Media mixture</string>
+    <string name="record">Record audio</string>
+    <string name="start_record_audio">Start record</string>
+    <string name="stop_record">Stop record</string>
+    <string name="play_audio">Play audio</string>
+    <string name="dubbing">Dubbing</string>
+    <string name="title_activity_dubbing">DubbingActivity</string>
+    <string name="start_dubbing">Start dubbing</string>
+    <string name="end_dubbing">End dubbing</string>
+</resources>

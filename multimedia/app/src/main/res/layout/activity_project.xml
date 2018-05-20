@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.multimedia.project.ProjectActivity">
+
+
+    <SurfaceView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/video_preview_surface"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/video_preview_surface"
+        android:text="@string/select_video"
+        android:id="@+id/select_video"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/select_video"
+        android:text="@string/divide_audio"
+        android:layout_marginLeft="15dp"
+        android:id="@+id/divide_audio"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/select_video"
+        android:text="@string/divide_video"
+        android:id="@+id/divide_video"
+        android:layout_toEndOf="@+id/divide_audio"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/select_video"
+        android:text="@string/cut_video"
+        android:layout_toEndOf="@+id/divide_video"/>
+
+
+</RelativeLayout>
