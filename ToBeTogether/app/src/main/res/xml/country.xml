@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+        <dataVersion>1</dataVersion>
+    <country>
+        <countryName>中国</countryName>
+        <countryCode>101</countryCode>
+    </country>
+    <country>
+        <countryName>德国</countryName>
+        <countryCode>102</countryCode>
+    </country>
+    <country>
+        <countryName>英国</countryName>
+        <countryCode>103</countryCode>
+    </country>
+</countries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cities>
+    <dataVersion>1</dataVersion>
+    <city>
+        <cityName>南京</cityName>
+        <cityCode>9001</cityCode>
+        <countryCode>101</countryCode>
+        <phoneticName>nanjing</phoneticName>
+    </city>
+    <city>
+        <cityName>杭州</cityName>
+        <cityCode>9002</cityCode>
+        <countryCode>101</countryCode>
+        <phoneticName>hangzhou</phoneticName>
+    </city>
+    <city>
+        <cityName>洛阳</cityName>
+        <cityCode>9003</cityCode>
+        <countryCode>101</countryCode>
+        <phoneticName>luoyang</phoneticName>
+    </city>
+
+</cities>

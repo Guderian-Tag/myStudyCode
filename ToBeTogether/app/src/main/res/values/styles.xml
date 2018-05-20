@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="pop_window_anim_style">
+        <item name="android:windowEnterAnimation">@anim/pop_show_animation</item>
+        <!-- 指定显示的动画xml -->
+
+        <item name="android:windowExitAnimation">@anim/pop_hide_animation</item>
+        <!-- 指定消失的动画xml -->
+    </style>
+
+
+</resources>

@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">翔地记</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_level">LevelActivity</string>
+
+    <string name="nanjing">南京</string>
+    <string name="start_tip">请找出下面景点的名字：</string>
+    <string name="tip">提示</string>
+    <string name="switch_city">切换城市</string>
+    <string name="search">搜索</string>
+    <string name="no_spot_tip">该城市尚未开放，敬请期待！</string>
+
+    <!--site name-->
+    <string name="zhongshanling">中山陵</string>
+    <string name="qixiashan">栖霞山</string>
+    <string name="xuanwuhu">玄武湖</string>
+    <string name="changjdaqiao">长江大桥</string>
+    <string name="chaotiangong">朝天宫</string>
+    <string name="fuzimiao">夫子庙</string>
+
+    <!--private static String[] MIXCHAR = {"绿","孝","梅","紫","博","阅","楼","花","鸡","寺","园","鸣","金"};-->
+    <string-array name="mix_array">
+        <item>鸡</item>
+        <item>绿</item>
+        <item>孝</item>
+        <item>梅</item>
+        <item>紫</item>
+        <item>梅</item>
+        <item>博</item>
+        <item>阅</item>
+        <item>花</item>
+        <item>楼</item>
+        <item>京</item>
+        <item>花</item>
+        <item>寺</item>
+        <item>南</item>
+        <item>园</item>
+        <item>鸣</item>
+        <item>金</item>
+        <item>江</item>
+        <item>眼</item>
+    </string-array>
+
+    <string name="next">下一个</string>
+    <string name="error_tip">景点没有猜对！</string>
+    <string name="success_tip">恭喜猜对啦！</string>
+    <string name="confirm">确定</string>
+    <string name="tongguan">您已通关，恭喜您猜对该地区全部景点！您可以重新玩或者选择其他城市。</string>
+
+</resources>
